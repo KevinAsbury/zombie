@@ -6,6 +6,8 @@ Zombie is a Racket program that changes the direction and orientation of a the z
 
 If you do not have Dr. Racket installed then goto [https://racket-lang.org/](https://racket-lang.org/) and click the download button.
 
+Alternatively you can view the definitions, or code, in the ZombieDefinitions.pdf
+
 ## Instructions
 
 Click the mouse to the left or right of the zombie to make him turn towards the mouse click.
